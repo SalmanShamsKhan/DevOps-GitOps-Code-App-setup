@@ -6,7 +6,7 @@ This GitOps-based CI/CD pipeline automates **infrastructure provisioning** and *
 ---
 
 ## **Architecture Diagram**
-![GitOps CI/CD Workflow](terraform and app code workflow devops gitops.jpeg)
+![GitOps CI/CD Workflow](terraform and app code workflow devops gitops.jpg)
 
 ---
 
