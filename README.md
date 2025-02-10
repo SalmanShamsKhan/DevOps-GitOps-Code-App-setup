@@ -69,6 +69,7 @@ This **GitOps-based CI/CD pipeline** provides a **fully automated workflow** for
 
 
 
+
 # Prerequisites
 #####
 - JDK 11
